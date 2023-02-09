@@ -8,3 +8,4 @@ script to print working directory
 7-movethatfile- script to move betty fom tmp to my_first_directory
 8-firstdelete- script to delete betty from tmp
 9-firstdirdeletion - delete my_first_directory in tmp
+10-back- script to change curremt directory to previous one
