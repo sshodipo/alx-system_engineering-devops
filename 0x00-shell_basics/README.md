@@ -3,3 +3,4 @@ script to print working directory
 2-bring_me_home- script to change to home directory
 3-listfiles -script to list content in long format
  4-listmorefiles - script to list hidden and long file
+5-listfilesdigitonly-display content with hidden files aswell as user and group-id
