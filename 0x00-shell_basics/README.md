@@ -4,3 +4,4 @@ script to print working directory
 3-listfiles -script to list content in long format
  4-listmorefiles - script to list hidden and long file
 5-listfilesdigitonly-display content with hidden files aswell as user and group-id
+6-firstdirectory-script to create dirctory on tmp
