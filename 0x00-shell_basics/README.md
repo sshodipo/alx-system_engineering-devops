@@ -10,3 +10,4 @@ script to print working directory
 9-firstdirdeletion - delete my_first_directory in tmp
 10-back- script to change curremt directory to previous one
 11-lists- scriptdisplay content in the current directory working directory and boot directory
+12-file_type- script to print type of file
