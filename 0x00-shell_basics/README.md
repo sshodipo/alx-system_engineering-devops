@@ -9,3 +9,4 @@ script to print working directory
 8-firstdelete- script to delete betty from tmp
 9-firstdirdeletion - delete my_first_directory in tmp
 10-back- script to change curremt directory to previous one
+11-lists- scriptdisplay content in the current directory working directory and boot directory
