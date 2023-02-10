@@ -1,1 +1,3 @@
 #!/bin/bash
+chmod  a+x ~/  0-iam_betty
+chmod -R a+x ./*
