@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -f *.js ./*.js
+rm -f *.js /root/alx-system_engineering-devops/0x02-shell_redirections/*/*.js
